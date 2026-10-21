@@ -34,4 +34,4 @@ A web-based application developed to help students submit and manage college-rel
 
 ## 👩‍💻 Developed By
 
-Sakshi Shinde
+  Sakshi Shinde
